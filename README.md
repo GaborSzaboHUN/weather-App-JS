@@ -5,7 +5,6 @@ My first weather app that I made with JS. My goal in the project was to automati
 ### How to open the project:
 - in VScode open the terminal
 - open "ask-nasa-javascript-GaborSzaboHUN" folder if you somewhere else
-- npm install express (to install Express.JS)
-- node backend/server.js (to start the server)
-- http://127.0.0.1:9000 (you can find the project on that IP address)
-
+- <code>npm install express</code> to install Express.JS
+- <code>node backend/server.js</code> to start the server
+- <code>http://127.0.0.1:9000</code> you can find the project on that IP address
